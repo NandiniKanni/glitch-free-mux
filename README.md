@@ -4,8 +4,8 @@ This repository contains a Verilog implementation of a Glitch-Free Multiplexer (
 📁 Files Included
 glitch_free_mux.v – Simple MUX code
 glitch_free_mux_tb.v – Testbench for the MUX
-glitch_free_waveform.png – Simulation waveform output (Please use your actual filename here if different, like Screenshot 2025-06-05 100400.png)
-📊 Simulation Waveform file has also been attached 
+glitch_free_waveform.png – Simulation waveform output 
+
 
 📌 Notes
 Design made and simulated using ModelSim.
